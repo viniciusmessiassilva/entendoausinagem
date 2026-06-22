@@ -51,3 +51,8 @@ Complexidade Técnica e Necessidade de Expertise: O operador ou programador deve
 Riscos de Segurança: Operações em alta rotação (que podem chegar a 10.000 RPM em centros de usinagem) exigem cuidados rigorosos com a fixação da peça, como o uso de contrapontos e lunetas para evitar que o material se solte de forma perigosa.
 
 Baixa Produtividade em Processos Manuais: O uso de máquinas convencionais com ferramentas de aço rápido (HSS) exige afiação constante e limita a velocidade a cerca de 600 RPM, tornando o processo lento para grandes demandas."
+
+
+Prompt Few-shot Learning:
+
+
